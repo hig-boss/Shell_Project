@@ -19,7 +19,7 @@ This project is a simple shell command-line interpreter designed in the C progra
 1. Clone the repository to your local machine:  
   git clone https://github.com/hig-boss/shell_project.git   
 2. Navigate to the project directory:  
-   cd simpleshell/
+   cd shell_project/
 3. Compile the source code using a C compiler:   
    gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o shell
 4. Run the shell:  
